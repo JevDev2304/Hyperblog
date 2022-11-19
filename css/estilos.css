@@ -40,6 +40,12 @@ padding: 0.5em;
     font-size: 0.8em;
 
 }
+#footer
+{background: #88F;
+    font-weight: bold;
+    color: white;
+    margin: 0;
+    padding: 0.5em;}
 #post
 {
     padding: 1em;
