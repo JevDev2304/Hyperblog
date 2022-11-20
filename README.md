@@ -3,7 +3,7 @@
 ### ¿Qué hay implementado?🤔
 -  Un blog Supeer Epicooo. 🙃
 
-- Las principales funcionalidades para facilitar el con trol de versiones de archivos de texto plano.📝
+- Las principales funcionalidades para facilitar el control de versiones de archivos de texto plano.📝
 
 - Buenas practicas en el uso de Git y Github. 😼
 
